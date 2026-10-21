@@ -33,5 +33,5 @@
 
 ## 找得到我
 
-- 代码：下方 Pin 住的仓库
-- 问题与建议：直接开 Issue
+- 代码：[xllite-HarmonyOS](https://github.com/AIRE1084/xllite-HarmonyOS)
+- 问题与建议：直接开 [Issue](https://github.com/AIRE1084/xllite-HarmonyOS/issues)
